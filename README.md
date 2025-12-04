@@ -16,6 +16,13 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=oguzironcode&show_icons=true&locale=en&layout=compact" alt="oguzironcode" /></p>
 
+<!-- 🐍 GitHub Contribution Snake Animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OguzIronCode/OguzIronCode/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/OguzIronCode/OguzIronCode/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/OguzIronCode/OguzIronCode/output/github-contribution-grid-snake.svg">
+</picture>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oguzironcode&show_icons=true&locale=en" alt="oguzironcode" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oguzironcode&" alt="oguzironcode" /></p>
