@@ -23,7 +23,6 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/OguzIronCode/OguzIronCode/output/github-contribution-grid-snake.svg">
 </picture>
 
-![Snake animation](https://raw.githubusercontent.com/OguzIronCode/OguzIronCode/output/github-contribution-grid-snake.svg)
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oguzironcode&show_icons=true&locale=en" alt="oguzironcode" /></p>
