@@ -1,9 +1,8 @@
-<h1 align="center">Hi 👋, I'm Oğuzhan Demirbaş</h1>
+<h1 align="center">Merhaba👋, Ben Oğuzhan Demirbaş</h1>
 <h3 align="center">AI & Robotics Developer | UAV Systems, ROS, Qt, Computer Vision | NLP & Sign Language Projects</h3>
 
-- 🔭 I’m currently working on [TungaInterfaceQT — Qt & C++ tabanlı modern bir arayüz ve gerçek zamanlı veri paneli]((Private Repository))
-
-- 💬 Ask me about **Qt, C++, Python, UAV systems, server-side logic (HTML/JS), real-time interfaces**
+🔭 I’m currently working on [TungaInterfaceQT — Qt & C++ tabanlı modern bir arayüz ve gerçek zamanlı veri paneli]((Private Repository))
+💬 Ask me about **Qt, C++, Python, UAV systems, server-side logic (HTML/JS), real-time interfaces**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
