@@ -23,6 +23,20 @@
 | **TungaInterfaceQT** *(özel repo)* | Qt ve C++ tabanlı modern arayüz ve gerçek zamanlı veri paneli |
 | [**Robotic Project – Desktop Robot**](https://github.com/OguzIronCode/Robotic-Project--Desktop-Robot) | ESP32-CAM görüntüsünü PC'de YOLOX ile işleyen, tek butonla açılıp kapanan nesne tespiti sistemi |
 
+## 🚀 Öne çıkan projeler
+
+| Proje | Açıklama | Teknoloji |
+|---|---|---|
+| [**NotatiaAI**](https://github.com/OguzIronCode/notatiaAI-APP) | Ders, seminer ve toplantı kayıtlarını cihaz üzerinde gerçek zamanlı yazıya döken, özetleyen ve yapay zekâ asistanı sunan, gizlilik odaklı mobil uygulama | Dart / Flutter |
+| [**Aidex**](https://github.com/OguzIronCode/Aidex) | E-ticaret satıcıları için iade oranlarını düşüren, Google Gemini tabanlı çoklu ajan hattıyla çalışan yapay zekâ platformu | Dart, Gemini |
+| [**CustomerNode**](https://github.com/OguzIronCode/Customer-Node) | Müşteri kaybı (churn) tahmini, segment bazlı kampanya motoru ve etkileşimli analitik panel | Python, Jupyter |
+| [**CineMatch**](https://github.com/OguzIronCode/CineMatch) | MovieLens ml-32m üzerinde eğitilmiş üç farklı algoritmayla kişiselleştirilmiş film öneri sistemi | Python, Flask |
+| [**TranscriptionTool**](https://github.com/OguzIronCode/TranscriptionTool) | Groq (Whisper Large v3) ile ses/video dosyası, mikrofon veya YouTube bağlantısından zaman damgalı transkript üreten web uygulaması ([canlı demo](https://transcriptiontool.onrender.com)) | Web, Groq API |
+| [**PsikoAI**](https://github.com/OguzIronCode/PsikoAI) | Zihinsel sağlık takibi, psikolojik testler ve yapay zekâ destekli analizlerle kişisel öneriler sunan uygulama *(ekip projesi)* | Java |
+| [**FitnessAsistani**](https://github.com/OguzIronCode/FitnessAsistani) | Kişiselleştirilmiş yapay zekâ destekli fitness ve beslenme takip uygulaması | Python |
+
+**Diğer repolar:** [Image-Processeing-Projects](https://github.com/OguzIronCode/Image-Processeing-Projects) · [Natural-Language-Processing-Notes](https://github.com/OguzIronCode/Natural-Language-Processing-Notes) · [Computer-Network-Sarsa-Algorithm](https://github.com/OguzIronCode/Computer-Network-Sarsa-Algorithm) · [Money_Laundering_Analysis](https://github.com/OguzIronCode/Money_Laundering_Analysis) · [SentimentChat](https://github.com/OguzIronCode/SentimentChat) · [NeedForSarkisla](https://github.com/OguzIronCode/NeedForSarkisla) · [GameProjectLabirent](https://github.com/OguzIronCode/GameProjectLabirent)
+
 ## 🎯 İlgi alanlarım
 
 - 🛩️ **UAV sistemleri** ve ROS tabanlı robotik yazılım
